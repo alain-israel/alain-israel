@@ -66,3 +66,6 @@ In my free time, I dedicate myself to studying graphic design, creating no-code 
 
 
 -----
+<p>
+  Credits by: <a href="https://github.com/alain-israel"> Alain Israel
+</p>
